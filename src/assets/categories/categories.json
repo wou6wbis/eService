@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "slug": "Plomberie",
+      "title": "Plomberie",
+      "description": "Cherchez des services de plomberie",
+      "background": "#0077ff",
+      "tags": [
+        {
+          "name": "Plomberie"
+        },
+        {
+          "name": "Sanitaire"
+        },
+        {
+          "name": "Chauffage"
+        }
+      ]
+    },
+    {
+      "slug": "Electricité",
+      "title": "Electricité",
+      "description": "Cherchez des services d'électricité",
+      "background": "#F84C61",
+      "tags":[
+        {
+          "name": "Electricité"
+        },
+        {
+          "name": "Fibres"
+        }
+      ]
+    },
+    {
+      "slug": "Mécanique",
+      "title": "Mécanique",
+      "description": "Cherchez des services de mécanique",
+      "background": "#16144A",
+      "tags": [
+        {
+            "name": "Mécanique"
+        },
+        {
+            "name": "Véhicules"
+        }
+      ]
+    },
+    {
+      "slug": "Peinture",
+      "title": "Peinture",
+      "description": "Cherchez des services de peinture",
+      "background": "#432B9C",
+      "tags": [
+        {
+            "name": "Peinture"
+        }
+      ]
+    }
+  ]
+}
